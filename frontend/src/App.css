@@ -1,0 +1,9 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(255, 243, 243);
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
