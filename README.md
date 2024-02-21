@@ -1,4 +1,4 @@
-<h1>ExhoNet - Social Media Application</h1>
+<h1>EchoNet - Social Media Application</h1>
 
 <p>This application represents a sophisticated blend of front-end and back-end technologies, fostering a compelling user experience. Employing HTML, CSS, JavaScript, Bootstrap, and React establishes an aesthetically pleasing and responsive user interface. The integration of the Context API for user authentication ensures secure access to features. Dynamic weather updates and news posts sourced from APIs add real-time relevance and diversity to the platform.</p>
 
